@@ -1,3 +1,5 @@
 hola como estas
 
 mi primer cambio en la rama feature/SQAG-001
+
+cambio realizado por Leonel en retiro protegido
